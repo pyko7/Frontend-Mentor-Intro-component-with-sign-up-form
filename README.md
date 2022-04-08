@@ -28,7 +28,7 @@ Users should be able to:
 
 ### Links
 
-- Live Site URL: [https://pyko7.github.io/Frontend-Mentor-Intro-component-with-sign-up-form/]
+- [Live Site URL](https://pyko7.github.io/Frontend-Mentor-Intro-component-with-sign-up-form/)
 
 ## My process
 
